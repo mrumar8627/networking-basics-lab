@@ -1,18 +1,10 @@
-# LAN, WLAN and WAN
+# Basic Network Devices
 
-## LAN
+## Switch
 
-LAN stands for **Local Area Network**.
+A switch connects multiple devices within a local network.
 
-A LAN connects computers and other devices within a limited geographical area.
-
-Examples:
-
-- School computer lab
-- Office network
-- Home network
-
-Example:
+For example, computers in a school computer lab can be connected to a switch.
 
 ```text
 PC 1 ----\
